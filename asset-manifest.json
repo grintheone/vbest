@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vbest/static/css/main.0d92da84.chunk.css",
+    "main.js": "/vbest/static/js/main.dfd17c39.chunk.js",
+    "main.js.map": "/vbest/static/js/main.dfd17c39.chunk.js.map",
+    "runtime-main.js": "/vbest/static/js/runtime-main.de970a13.js",
+    "runtime-main.js.map": "/vbest/static/js/runtime-main.de970a13.js.map",
+    "static/js/2.af03e284.chunk.js": "/vbest/static/js/2.af03e284.chunk.js",
+    "static/js/2.af03e284.chunk.js.map": "/vbest/static/js/2.af03e284.chunk.js.map",
+    "index.html": "/vbest/index.html",
+    "static/css/main.0d92da84.chunk.css.map": "/vbest/static/css/main.0d92da84.chunk.css.map",
+    "static/js/2.af03e284.chunk.js.LICENSE.txt": "/vbest/static/js/2.af03e284.chunk.js.LICENSE.txt",
+    "static/media/list.c43bc59d.svg": "/vbest/static/media/list.c43bc59d.svg",
+    "static/media/search.b1f781b9.svg": "/vbest/static/media/search.b1f781b9.svg",
+    "static/media/telephone.92e390f9.svg": "/vbest/static/media/telephone.92e390f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de970a13.js",
+    "static/js/2.af03e284.chunk.js",
+    "static/css/main.0d92da84.chunk.css",
+    "static/js/main.dfd17c39.chunk.js"
+  ]
+}
